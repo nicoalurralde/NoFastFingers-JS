@@ -1,0 +1,14 @@
+{
+  "name": "2fast4u",
+  "version": "1.0.0",
+  "description": "10FastFinger Challenge",
+  "scripts": {
+    "test": "node english.js"
+  },
+  "author": "Nicolás Alurralde",
+  "license": "UNLICENSED",
+  "private": false,
+  "dependencies": {
+    "puppeteer": "1.19.0"
+  }
+}
